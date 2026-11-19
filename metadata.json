@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tes Sumatif-Uji Coba",
+  "description": "Aplikasi Tes Sumatif Matematika TKA Kelas VI ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
